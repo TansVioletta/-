@@ -7,7 +7,7 @@ int main(int argc,char *argv[])
 {
   if (argc!=3)
   {
-    printf("Using:./demo33 ip port\nExample:./demo33 192.168.174.133 5005\n\n"); return -1;
+    printf("Using:./demo33 ip port\nExample:./demo33 172.30.142.89 5005\n\n"); return -1;
   }
 
   CTcpClient TcpClient;
